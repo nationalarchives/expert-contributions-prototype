@@ -23,6 +23,7 @@
             <h1>
                 Somerset Heritage Centre
             </h1>
+            <p>Search our collection</p>
         </header>
         <div class="search-form-container" role="search">
             <form method="get" action="#">

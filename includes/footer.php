@@ -33,12 +33,15 @@
             </div>
             <div class="col starts-at-full ends-at-one-quarter clr">
                 <div class="footer-left">
-                    <h4>
 
-                    </h4>
-                    <ul>
-                        <li></li>
-                    </ul>
+                        <p>Powered by</p>
+
+                    <p>
+                        <a title="Go to The National Archives homepage" href="http://www.nationalarchives.gov.uk/">
+                            <img src="images/logo-white.png" alt="The National Archives" title="The National Archives">
+                        </a>
+                    </p>
+
                 </div>
             </div>
         </div>
