@@ -8,16 +8,16 @@
             <p>Somerset Archives and Local Studies offers:</p>
             <ul class="child-full">
                 <li>
-                    Free access for you to do your <a href="">own research</a>
+                    Free access for you to do your <a href="http://www1.somerset.gov.uk/archives/Researching.htm">own research</a>
                 </li>
                 <li>
-                    <a href="">Accepting documents</a> relating to Somerset
+                    <a href="http://www1.somerset.gov.uk/archives/DonsDeps.htm">Accepting documents</a> relating to Somerset
                 </li>
                 <li>
-                    An archives <a href="">online catalogue</a>
+                    An archives <a href="http://www1.somerset.gov.uk/DServe/DServe.exe?dsqApp=Archive&dsqDb=Catalog&dsqCmd=Search.tcl">online catalogue</a>
                 </li>
                 <li>
-                    A <a href="">Research Service</a> if you can't visit in person
+                    A <a href="http://www1.somerset.gov.uk/archives/Research.htm">Research Service</a> if you can't visit in person
                 </li>
             </ul>
         </div>
