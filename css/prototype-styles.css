@@ -1,0 +1,46 @@
+#footer-wrapper {
+    background-image: none;
+}
+ul.child-full li {
+    margin-left: 1em;
+}
+.text-right {
+    text-align: right;
+}
+.discover-ww1 {
+    background-color: #000;
+    background-image: url(http://discovery.nationalarchives.gov.uk/Content/images/discover-ww1.jpg);
+    background-position: right center;
+    background-repeat: no-repeat;
+}
+.discover-ww1 .discover-ww1-wrapper {
+    margin: 110px 0 10px;
+    padding: 1px 1em;
+    background: #fff;
+    background: rgba(255,255,255,.92);
+}
+.find-an-archive {
+    background-image: url(http://discovery.nationalarchives.gov.uk/Content/images/MPB_1_7_1605.jpg);
+    background-position: center center;
+    padding-bottom: 0;
+}
+.find-an-archive .archive-search-wrapper {
+    margin-top: 110px;
+    color: #fff;
+}
+.find-an-archive .archive-search-wrapper fieldset {
+    background-color: #000;
+    background-color: rgba(0,0,0,.8);
+    margin-bottom: 0;
+    padding: 1em;
+    border: none;
+}
+.find-an-archive .archive-search-wrapper label {
+    color: #FFF;
+    padding-top: 0;
+    margin-bottom: .9em;
+    display: block;
+}
+.find-an-archive .archive-search-wrapper a {
+    color: #FCE45C;
+}
