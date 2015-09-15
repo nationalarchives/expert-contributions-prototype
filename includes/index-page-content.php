@@ -29,34 +29,28 @@
         <div class="breather-all clr">
             <ul class="child-full">
                 <li>
-                    <a href="">Opening hours</a>
+                    <a href="http://www1.somerset.gov.uk/archives/Researching.htm#open">Opening hours</a>
                 </li>
                 <li>
-                    <a href="">Directions</a>
+                    <a href="http://www1.somerset.gov.uk/archives/Researching.htm#direct">Directions</a>
                 </li>
                 <li>
-                    <a href="">Appointments</a>
+                    <a href="http://www1.somerset.gov.uk/archives/Researching.htm#appoint">Appointments</a>
                 </li>
                 <li>
-                    <a href="">Consulting documents</a>
+                    <a href="http://www1.somerset.gov.uk/archives/Researching.htm#doc">Consulting documents</a>
                 </li>
                 <li>
-                    <a href="">Consulting photographs</a>
+                    <a href="http://www1.somerset.gov.uk/archives/Researching.htm#photo">Consulting photographs</a>
                 </li>
                 <li>
-                    <a href="">Ticket system</a>
+                    <a href="http://www1.somerset.gov.uk/archives/Researching.htm#photo">Taking photographs</a>
                 </li>
                 <li>
-                    <a href="">Searchrooms</a>
+                    <a href="http://www1.somerset.gov.uk/archives/Researching.htm#facilities">Facilities available</a>
                 </li>
                 <li>
-                    <a href="">Taking photographs</a>
-                </li>
-                <li>
-                    <a href="">Facilities available</a>
-                </li>
-                <li>
-                    <a href="">Charges</a>
+                    <a href="http://www1.somerset.gov.uk/archives/Researching.htm#charges">Charges</a>
                 </li>
             </ul>
         </div>
@@ -68,28 +62,28 @@
         <div class="breather-all clr">
             <ul class="child-full">
                 <li>
-                    <a href="">Visiting the Heritage Centre</a>
+                    <a href="http://www1.somerset.gov.uk/archives/Researching.htm">Visiting the Heritage Centre</a>
                 </li>
                 <li>
-                    <a href="">Donors and Depositors</a>
+                    <a href="http://www1.somerset.gov.uk/archives/DonsDeps.htm">Donors and Depositors</a>
                 </li>
                 <li>
-                    <a href="">Research Service</a>
+                    <a href="http://www1.somerset.gov.uk/archives/Research.htm">Research Service</a>
                 </li>
                 <li>
-                    <a href="">Education and Learning</a>
+                    <a href="http://www1.somerset.gov.uk/archives/Education.htm">Education and Learning</a>
                 </li>
                 <li>
-                    <a href="">Archive Services to North Somerset</a>
+                    <a href="http://www1.somerset.gov.uk/archives/NorthSom.htm">Archive Services to North Somerset</a>
                 </li>
                 <li>
-                    <a href="">Conservation</a>
+                    <a href="http://www1.somerset.gov.uk/archives/Conservation.htm">Conservation</a>
                 </li>
                 <li>
-                    <a href="">Talks and Tours</a>
+                    <a href="http://www1.somerset.gov.uk/archives/TalksTours.htm">Talks and Tours</a>
                 </li>
                 <li>
-                    <a href="">Reprographics</a>
+                    <a href="http://www1.somerset.gov.uk/archives/Reprographics.htm">Reprographics</a>
                 </li>
             </ul>
         </div>
