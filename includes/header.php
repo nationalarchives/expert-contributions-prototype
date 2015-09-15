@@ -22,7 +22,7 @@
     <div id="account-controls-wrapper">
         <div id="account-controls" class="container">
             <ul>
-                <li></li>
+                <li><a href="#">&nbsp;</a></li>
             </ul>
         </div>
     </div>

@@ -106,6 +106,9 @@
                     <a href="">Army records</a>
                 </li>
                 <li>
+                    <a href="">Tracing First World War soldiers</a>
+                </li>
+                <li>
                     <a href="">Other research guides</a>
                 </li>
             </ul>
