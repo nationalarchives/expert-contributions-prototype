@@ -44,3 +44,14 @@ ul.child-full li {
 .find-an-archive .archive-search-wrapper a {
     color: #FCE45C;
 }
+.search-banner {
+    -webkit-transition: background-image 2s linear;
+    -moz-transition: background-image 2s linear;
+    -o-transition: background-image 2s linear;
+    -ms-transition: background-image 2s linear;
+    transition: background-image 2s linear;
+    background-color: #000;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: cover;
+}
