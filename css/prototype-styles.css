@@ -7,6 +7,11 @@ ul.child-full li {
 .text-right {
     text-align: right;
 }
+.primary-search-box header h1 {
+    background-color: rgba(0,0,0,.7);
+    padding: .3em 1em;
+    display: inline-block;
+}
 .discover-ww1 {
     background-color: #000;
     background-image: url(http://discovery.nationalarchives.gov.uk/Content/images/discover-ww1.jpg);
