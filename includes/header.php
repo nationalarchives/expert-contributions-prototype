@@ -12,9 +12,9 @@
 
                 <span id="search-expander" style="position: absolute; right: 5px;">&nbsp;</span></div>
             <div class="col starts-at-full ends-at-half clr text-right">
-                <a title="Go to The National Archives homepage" href="http://www.nationalarchives.gov.uk/">
+                <!-- <a title="Go to The National Archives homepage" href="http://www.nationalarchives.gov.uk/">
                     <img src="images/logo-white.png" alt="The National Archives" title="The National Archives">
-                </a>
+                </a> -->
             </div>
         </div>
     </div>
