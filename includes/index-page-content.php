@@ -4,8 +4,9 @@
             <h2><span><span>Somerset archives</span></span></h2>
         </div>
         <div class="breather">
+            <p><img src="images/SHC_exterior.jpg"></p>
             <p>We exist to find, preserve and make available written records of Somerset's people and communities.  We are based at the Somerset Heritage Centre in Taunton.</p>
-            <p>Somerset Archives and Local Studies offers:</p>
+            <!-- <p>Somerset Archives and Local Studies offers:</p>
             <ul class="child-full">
                 <li>
                     Free access for you to do your <a href="http://www1.somerset.gov.uk/archives/Researching.htm">own research</a>
@@ -19,7 +20,7 @@
                 <li>
                     A <a href="http://www1.somerset.gov.uk/archives/Research.htm">Research Service</a> if you can't visit in person
                 </li>
-            </ul>
+            </ul> -->
         </div>
     </div>
     <div class="col ends-at-one-third clr holding-box">
@@ -114,25 +115,13 @@
             </ul>
         </div>
     </div>
-    <div class="col ends-at-one-third clr holding-box find-an-archive">
-        <div>
-            <h2 id="archive"><span><span><a href="/find-an-archive">Find an archive</a></span></span></h2>
+    <div class="col ends-at-one-third clr holding-box">
+        <div class="heading-holding-banner">
+            <h2><span><span>Find us</span></span></h2>
         </div>
-        <div class="archive-search-wrapper">
-            <form action="/results/a" method="get">
-                <fieldset>
-                    <legend>Search for an archive</legend>
-                    <label for="archive-search">
-                        Find the details of a UK archive from our searchable list of over 2,500 archives
-                    </label>
-                    <div class="archive-search-positioner">
-                        <input id="archive-search" name="_q" type="text" placeholder="Archive name...">
-                        <input type="hidden" name="_col" value="400">
-                        <input type="submit" value="Search" id="submit" title="Submit search">
-                    </div>
-                    <p>View <a href="/find-an-archive">more options</a></p>
-                </fieldset>
-            </form>
+        <div class="breather-all clr">
+            <p>Somerset Heritage Centre's online catalogue contains details of all of their catalogued documents and is updated monthly.</p>
+            <p><a href="http://discovery.nationalarchives.gov.uk/details/a/A13532165">Find us on The National Archives</a></p>
         </div>
     </div>
     <div class="col ends-at-one-third clr holding-box discover-ww1">
